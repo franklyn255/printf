@@ -4,6 +4,7 @@
  * print_usr - prints a string and values of
  * non-printed chars
  * @arguments: input string
+ * Collaborators Franklin and Emmaunel
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
  * Return: number of chars printed
