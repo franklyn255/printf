@@ -3,7 +3,7 @@
 /**
  * ev_print_func - returns the amount of identifiers.
  * @s: argument indentifier
- * @index: index of argument identifier.
+ * @index: index of arguments identifier.
  * Return: amount of identifiers.
  */
 int ev_print_func(const char *s, int index)
